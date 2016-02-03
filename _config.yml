@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Cameron Hunter Bell
+title: 'Cameron Hunter Bell '
 cta:
   domain: null
   bucket: null
