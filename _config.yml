@@ -1,7 +1,7 @@
 name: Greetings Professor Falken
 favicon: null
 layout_spectrum: 0.52135
-typography_spectrum: 0.6667549984995276
+typography_spectrum: 0.7589
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040104'
-    - '#FF01FF'
-    - '#FFFEFF'
-    - '#995D5C'
-    - '#0DFBFF'
-  brandStrength: 0.6333737729582936
-  lightness: 0.9779807
-  saturation: 0.858754
-  rhythmicContrast: 0.05746506
+    - '#deac79'
+    - '#52474f'
+    - '#ffffff'
+    - '#f04b52'
+    - '#7792d7'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
