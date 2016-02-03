@@ -1,28 +1,40 @@
-name: Cameron Hunter Bell
 favicon: null
-layout_spectrum: 0.5247449115850031
-typography_spectrum: 0.6667549984995276
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Cameron Hunter Bell
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.6333737729582936
-  lightness: 0.6063781108241528
-  saturation: 0.35766900586895645
-  rhythmicContrast: 0.8001724295318127
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.858754
+  brandStrength: 0.6333737729582936
+  lightness: 0.9779807
+  brandColors:
+    - '#040104'
+    - '#FF01FF'
+    - '#FFFEFF'
+    - '#995D5C'
+    - '#0DFBFF'
+  rhythmicContrast: 0.05746506
+typography_spectrum: 0.6667549984995276
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
