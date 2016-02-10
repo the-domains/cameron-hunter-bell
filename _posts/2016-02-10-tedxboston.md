@@ -6,26 +6,28 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T22:15:12.824Z'
-dateModified: '2016-02-10T22:14:31.090Z'
+datePublished: '2016-02-10T22:21:45.255Z'
+dateModified: '2016-02-10T22:21:41.979Z'
 title: TEDxBoston
 author: []
+sourcePath: _posts/2016-02-10-tedxboston.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-tedxboston.md
-published: true
 url: tedxboston/index.html
 _type: Article
 
 ---
 # TEDxBoston
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e27d3757-bfb2-486e-9d33-cfa921e9b755.jpg)
 
-Incredible to meet Google's Director of Moonshots [Astro Teller][0] as well as the inspirational [Noah Wilson-Rich][1] at TEDxBoston 2015\. Finished the event off by doing my ALS Ice Bucket Challenge with the legend Nancy "Mom" Frates and her husband John.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e2ca983-358a-407d-8f9d-adb1a891ddb2.png)
+Incredible to meet Google's Director of Moonshots [Astro Teller][0] and [Noah Wilson-Rich][1] who is campaigning to halt decline in bees at TEDxBoston 2015\. Finished the event off by doing my ALS Ice Bucket Challenge with the legend Nancy "Mom" Frates and her husband John. Just another day in Boston.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d23a7eb7-071f-46a2-917a-0c6d9dff2998.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e98b6930bea42e11dc6f81f1f6ee32bdd4dd16ca.png)
 
 [0]: https://www.youtube.com/watch?v=JnxAiy4DqBg
 [1]: https://www.ted.com/talks/noah_wilson_rich_every_city_needs_healthy_honey_bees?language=en
