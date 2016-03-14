@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.saltirefoundation.com'
-  name: Saltirefoundation
-  favicon: 'http://www.saltirefoundation.com/favicon.ico'
-  domain: www.saltirefoundation.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - saltire
   - scotland
@@ -18,17 +16,21 @@ keywords:
   - scottish
   - silicon
 description: "Our objective is to find, fuel and spark Scotland's human potential, in turn creating our next generation of business leaders."
-inLanguage: en
+datePublished: '2016-03-14T18:31:10.739Z'
+dateModified: '2016-03-14T18:11:09.183Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.saltirefoundation.com/'
 title: Saltire Foundation
-datePublished: '2016-02-21T14:01:19.480Z'
-dateModified: '2016-02-21T13:39:29.478Z'
 sourcePath: _posts/2016-02-21-saltire-foundation.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Saltirefoundation
+  domain: www.saltirefoundation.com
+  url: 'http://www.saltirefoundation.com'
+  favicon: 'http://www.saltirefoundation.com/favicon.ico'
+url: saltire-foundation/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
