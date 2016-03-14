@@ -1,7 +1,7 @@
 name: Greetings Professor Falken
 favicon: null
 layout_spectrum: 0.75749
-typography_spectrum: 0.33232
+typography_spectrum: 0.0494
 collections:
   - index:
       path: /
