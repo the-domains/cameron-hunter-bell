@@ -1,4 +1,4 @@
-name: Greetings Professor Falken
+name: Cameron Hunter Bell
 favicon: null
 layout_spectrum: 0.75749
 typography_spectrum: 0.0494
@@ -34,7 +34,7 @@ color:
     - '#ff0000'
     - '#75815b'
     - '#0046c5'
-  brandStrength: 1
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.375
   rhythmicContrast: 0.5
